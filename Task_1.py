@@ -12,17 +12,6 @@ for i in phones:
 
 print(value_apple)
 
-### Второй вариант ###
-#iphones.append(phones[2:4] + phones[5:])
-#print(iphones)
 
-### Третий вариант ###
-#phones.sort()
-#phones.pop(-1)
-#phones.pop(-3)
-#phones.pop(-2)
-#for i in phones:
-    #iphones.append(i)
-#print(iphones)
 
 
